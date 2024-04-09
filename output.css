@@ -621,14 +621,6 @@ video {
   width: 50%;
 }
 
-.w-\[300px\] {
-  width: 300px;
-}
-
-.min-w-\[300px\] {
-  min-width: 300px;
-}
-
 .cursor-pointer {
   cursor: pointer;
 }
@@ -703,7 +695,7 @@ video {
 }
 
 .bg-header-desktop {
-  background-image: url('/images/bg-header-desktop.png');
+  background-image: url('images/bg-header-desktop.png');
 }
 
 .bg-contain {

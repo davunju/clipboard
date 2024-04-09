@@ -13,8 +13,8 @@ module.exports = {
         bai: '"Bai Jamjuree", sans-serif',
       },
       backgroundImage: {
-        "header-desktop": "url('/images/bg-header-desktop.png')",
-        "header-mobile": "url('/images/bg-header-mobile.png')",
+        "header-desktop": "url('images/bg-header-desktop.png')",
+        "header-mobile": "url('images/bg-header-mobile.png')",
       },
       screens: {
         tablet: { max: "920px" },
